@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-st.title("HELLO EVERYONE , WE ARE LEARNING PYTHON")
+st.title("HELLO MY FRIEND , WE ARE LEARNING PYTHON")
 st.write("PYTHON REQUIRES PRACTICE")
 
 data = pd.DataFrame({
